@@ -1,6 +1,3 @@
-// TODO It should loop over the todos array creating an li element for each index of the array.
-// TODO It should set the content of the created li element to the value of the current array index.
-// TODO Finally the new li should be appended to the ul provided.
 
 var todoInput = document.querySelector("#todo-text");
 var todoForm = document.querySelector("#todo-form");
